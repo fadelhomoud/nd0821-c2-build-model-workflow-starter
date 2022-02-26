@@ -5,6 +5,9 @@ on the price of similar properties. Your company receives new data in bulk every
 to be retrained with the same cadence, necessitating an end-to-end pipeline that can be reused.
 
 In this project you will build such a pipeline.
+## Links
+[Link to the github](https://github.com/fadelhomoud/nd0821-c2-build-model-workflow-starter)  
+[Link to W&B](https://wandb.ai/fadelhomoud/nyc_airbnb)  
 
 ## Table of contents
 
